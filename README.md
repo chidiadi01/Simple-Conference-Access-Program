@@ -3,6 +3,7 @@ A simple program that permits people for a conference or disallows them because 
 
 ## Requirements
 • Just a basic knowledge of Java.
+
 • Nothing else, really.
 
 Please add issues and point out how I can improve my code.
